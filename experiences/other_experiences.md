@@ -8,6 +8,7 @@ layout: default
 
 Physics and Math competitions are a good challenge and can also stem new interests!
 
+- [Putnam](https://pi.math.cornell.edu/~zakh/putnam/)
 - [Cornell Mathematical Contest in Modelling](https://e.math.cornell.edu/sites/mcm/)
 - [iQuHACK](https://www.iquise.mit.edu/iQuHACK/2022-01-28)
 
